@@ -1,0 +1,11 @@
+{
+  "name": "school-free",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "express": "^4.21.2"
+  }
+}
